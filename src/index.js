@@ -15,7 +15,7 @@ root.render(
     <Global styles={GlobalStyles} />
     <Provider store={store}>
       <PersistGate loading={null} persistor={persistor}>
-        <BrowserRouter basename="/project-task-pro">
+        <BrowserRouter basename="/react_node_fs_64_I-Kolesnyk">
           <App />
         </BrowserRouter>
       </PersistGate>
