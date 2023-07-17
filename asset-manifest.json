@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_node_fs_64_I-Kolesnyk/static/css/main.13ded6ab.css",
-    "main.js": "/react_node_fs_64_I-Kolesnyk/static/js/main.980276bd.js",
+    "main.js": "/react_node_fs_64_I-Kolesnyk/static/js/main.3610fd7a.js",
     "static/js/214.bd825d3f.chunk.js": "/react_node_fs_64_I-Kolesnyk/static/js/214.bd825d3f.chunk.js",
     "static/js/185.9265a866.chunk.js": "/react_node_fs_64_I-Kolesnyk/static/js/185.9265a866.chunk.js",
     "static/css/649.d016c122.chunk.css": "/react_node_fs_64_I-Kolesnyk/static/css/649.d016c122.chunk.css",
@@ -18,7 +18,7 @@
     "static/media/welcome-mobile.webp": "/react_node_fs_64_I-Kolesnyk/static/media/welcome-mobile.f5ad986e8dc99a9fcbe0.webp",
     "index.html": "/react_node_fs_64_I-Kolesnyk/index.html",
     "main.13ded6ab.css.map": "/react_node_fs_64_I-Kolesnyk/static/css/main.13ded6ab.css.map",
-    "main.980276bd.js.map": "/react_node_fs_64_I-Kolesnyk/static/js/main.980276bd.js.map",
+    "main.3610fd7a.js.map": "/react_node_fs_64_I-Kolesnyk/static/js/main.3610fd7a.js.map",
     "214.bd825d3f.chunk.js.map": "/react_node_fs_64_I-Kolesnyk/static/js/214.bd825d3f.chunk.js.map",
     "185.9265a866.chunk.js.map": "/react_node_fs_64_I-Kolesnyk/static/js/185.9265a866.chunk.js.map",
     "649.d016c122.chunk.css.map": "/react_node_fs_64_I-Kolesnyk/static/css/649.d016c122.chunk.css.map",
@@ -27,6 +27,6 @@
   },
   "entrypoints": [
     "static/css/main.13ded6ab.css",
-    "static/js/main.980276bd.js"
+    "static/js/main.3610fd7a.js"
   ]
 }
